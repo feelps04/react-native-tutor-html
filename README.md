@@ -1,4 +1,4 @@
-# React Native App with Google Gemini Integration
+# react-native-tutor-html: React Native App with Google Gemini Integration
 
 This React Native application integrates with Google Gemini API to generate category-based questions for learning various programming topics.
 
